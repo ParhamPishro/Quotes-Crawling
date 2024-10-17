@@ -1,7 +1,7 @@
 # Quotes-Crawling
 :uk: EN:
 
-Crawl Anne Shirley's quotes from https://bookroo.com/quotes/anne-of-green-gables شnd finally, display quotes of any character requested by the user.
+Crawl Anne Shirley's quotes from https://bookroo.com/quotes/anne-of-green-gables and display quotes of any character the user requests.
 
 ----
 
